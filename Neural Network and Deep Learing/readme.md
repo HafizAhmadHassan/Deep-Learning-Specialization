@@ -1,11 +1,17 @@
 # Table of Content
   1.Introduction
+  
   2.Skills You will Learn
-  2.Requirements
-  3.Architecture
-  4.How it Works
-  5.Tables
-  6.Conclusion
+  
+  3.Requirements
+  
+  4.Architecture
+  
+  5.How it Works
+  
+  6.Tables
+  
+  7.Conclusion
 
 ## 1. Introduction
 
