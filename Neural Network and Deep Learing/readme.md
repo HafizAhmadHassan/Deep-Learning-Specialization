@@ -1,17 +1,18 @@
 # Table of Content
-  1.Introduction
   
-  2.Skills You will Learn
+  1.  Introduction
   
-  3.Requirements
+  2.  Skills You will Learn
   
-  4.Architecture
+  3.  Requirements
   
-  5.How it Works
+  4.  Architecture
   
-  6.Tables
+  5.  How it Works
   
-  7.Conclusion
+  6.  Tables
+  
+  7.  Conclusion
 
 ## 1. Introduction
 
@@ -25,14 +26,13 @@ Accuracy Achieved from 90 percent to 92 percent
 Following need to be install to run the code:
 
   a. Jupyter Notebook
-      
-     	- __[Jupyter](https://jupyter.org/install)
-      
+      - __[Jupyter](https://jupyter.org/install)__ -
+     	
   b. Python 3.x
-  
-      - __[Python](https://www.python.org/downloads/)
+    - __[Python](https://www.python.org/downloads/)__ -
       
   c. Libraries
+  
      Once you install above 
      open terminal run following :
      
