@@ -26,19 +26,21 @@ Following need to be install to run the code:
 
   a. Jupyter Notebook
       
-     	[Jupyter](https://jupyter.org/install)
+     	- __[Jupyter](https://jupyter.org/install)
       
   b. Python 3.x
   
-      Python(https://www.python.org/downloads/)
+      - __[Python](https://www.python.org/downloads/)
       
   c. Libraries
      Once you install above 
-     open terminal run following
-
-      `pip install matplotlib`
+     open terminal run following :
+     
+```
+      pip install matplotlib
       
-      `pip install numpy`
+      pip install numpy
       
-      `pip install sklearn`
+      pip install sklearn
+```
       
