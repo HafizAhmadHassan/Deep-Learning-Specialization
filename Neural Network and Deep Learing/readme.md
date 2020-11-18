@@ -49,6 +49,7 @@ Following need to be install to run the code:
 
 
 ## 4. Architecture
+![GitHub Logo](/nn (1).svg)
 
 
     
@@ -62,7 +63,9 @@ Following need to be install to run the code:
   ```
   
   2. Now open this file 
-
+      
+      layer3.ipythonb
+      
 ## 6. Results
       
       final result obtained was having 92 percent accuracy 
