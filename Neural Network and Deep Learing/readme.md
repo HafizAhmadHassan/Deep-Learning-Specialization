@@ -49,9 +49,8 @@ Following need to be install to run the code:
 
 
 ## 4. Architecture
-![GitHub Logo](/nn (1).svg)
 
-![Alt text](./controllers_brief.svg)
+![Alt text](./nn%20(1).svg.svg)
 <img src="https://github.com/HafizAhmadHassan/Deep-Learning-Specialization/blob/main/Neural%20Network%20and%20Deep%20Learing/nn%20(1).svg">
     
 ## 5. How it works
