@@ -8,11 +8,11 @@
   
   4.  Architecture
   
-  5.  How it Works
+  5.  How It works
   
   6.  Tables
   
-  7.  Conclusion
+  7. Results
 
 ## 1. Introduction
 
@@ -20,8 +20,13 @@ In the week 3 of this coursera specialization Assignment of week 3 was required 
 I modified it to 3 layers in order to make sure my understanding of code
 Accuracy Achieved from 90 percent to 92 percent
 
+##  2.  Skills You will Learn
+a.  Artificial Neural Network
+b.  Deep Learning
+c.  Backpropagation
+d.  Python Programming
 
-## 2. Requirements
+## 3. Requirements
 
 Following need to be install to run the code:
 
@@ -38,9 +43,27 @@ Following need to be install to run the code:
      
 ```
       pip install matplotlib
-      
-      pip install numpy
-      
+      pip install numpy   
       pip install sklearn
 ```
+
+
+## 4. Architecture
+
+
+    
+## 5. How it works
+  
+  1. open to terminal and write  
+  
+  ```
+  jupyter notebook
+  
+  ```
+  
+  2. Now open this file 
+
+## 6. Results
+      
+      final result obtained was having 92 percent accuracy 
       
