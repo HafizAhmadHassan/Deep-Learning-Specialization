@@ -2,19 +2,19 @@
 
 ## Table of Content
   
-  1.  Introduction
+    1.  Introduction
   
-  2.  Skills You will Learn
+    2.  Skills You will Learn
   
-  3.  Requirements
+    3.  Requirements
   
-  4.  Architecture
+    4.  Architecture
   
-  5.  How It works
+    5.  How It works
   
-  6.  Tables
+    6.  Tables
   
-  7. Results
+    7. Results
 
 ## 1. Introduction
 
@@ -23,10 +23,14 @@ I modified it to 3 layers in order to make sure my understanding of code
 Accuracy Achieved from 90 percent to 92 percent
 
 ##  2.  Skills You will Learn
-a.  Artificial Neural Network
-b.  Deep Learning
-c.  Backpropagation
-d.  Python Programming
+
+    a.  Artificial Neural Network
+
+    b.  Deep Learning
+
+    c.  Backpropagation
+
+    d.  Python Programming
 
 ## 3. Requirements
 
