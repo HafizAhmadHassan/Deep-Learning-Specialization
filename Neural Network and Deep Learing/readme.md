@@ -26,16 +26,16 @@ Following need to be install to run the code:
 
   a. Jupyter Notebook
       
-      https://jupyter.org/install
+     	[Jupyter](https://jupyter.org/install)
       
   b. Python 3.x
   
-      https://www.python.org/downloads/
+      Python(https://www.python.org/downloads/)
       
   c. Libraries
      Once you install above 
      open terminal run following
-     
+
       `pip install matplotlib`
       
       `pip install numpy`
