@@ -43,9 +43,9 @@ Following need to be install to run the code:
     - __[Python](https://www.python.org/downloads/)__ -
       
   c. Libraries
-  
-     Once you install above 
-     open terminal run following :
+ Once you install above 
+     
+ open terminal run following :
      
 ```
       pip install matplotlib
@@ -74,5 +74,5 @@ Following need to be install to run the code:
       
 ## 6. Results
       
-      final result obtained was having 92 percent accuracy 
+final result obtained was having 92 percent accuracy 
       
