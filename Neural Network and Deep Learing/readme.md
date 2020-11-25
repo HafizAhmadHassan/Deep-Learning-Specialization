@@ -1,4 +1,4 @@
-# 3 Layered Neural Network
+# 3 hidden Layered Neural Network
 
 ## Table of Content
   
