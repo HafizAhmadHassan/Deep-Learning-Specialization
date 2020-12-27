@@ -56,7 +56,7 @@ Following need to be install to run the code:
 
 ## 4. Architecture
 
-![Alt text](./nn%20(1).svg.svg)
+![](./nn%20(1).svg.svg)
 <img src="https://github.com/HafizAhmadHassan/Deep-Learning-Specialization/blob/main/Neural%20Network%20and%20Deep%20Learing/nn%20(1).svg">
     
 ## 5. How it works
