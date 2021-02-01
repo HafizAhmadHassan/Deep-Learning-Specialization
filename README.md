@@ -19,4 +19,4 @@ In This repository I am uploading each course Project which i made on my own
   
   5. Sequence Models (Continues)
 
-![alt text](http://url/to/img.png)
+![alt text](https://github.com/HafizAhmadHassan/Deep-Learning-Specialization/blob/main/certificate.jpeg)
