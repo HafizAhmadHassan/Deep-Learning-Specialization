@@ -17,6 +17,6 @@ In This repository I am uploading each course Project which i made on my own
   
   4. [Convolutional Neural Network](https://www.coursera.org/account/accomplishments/verify/CNNEV7C7VJPP)
   
-  5. Sequence Models (https://www.coursera.org/account/accomplishments/certificate/JS3ZYF36K4QS)
+  5. [Sequence Models](https://www.coursera.org/account/accomplishments/certificate/JS3ZYF36K4QS)
 
 ![alt text](https://github.com/HafizAhmadHassan/Deep-Learning-Specialization/blob/main/certificate.jpeg)
